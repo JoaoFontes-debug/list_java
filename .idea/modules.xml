@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/exercicio02/exercicio02.iml" filepath="$PROJECT_DIR$/exercicio02/exercicio02.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio03/exercicio03.iml" filepath="$PROJECT_DIR$/exercicio03/exercicio03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio03_02/exercicio03_02.iml" filepath="$PROJECT_DIR$/exercicio03_02/exercicio03_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio04/exercicio04.iml" filepath="$PROJECT_DIR$/exercicio04/exercicio04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio05/exercicio05.iml" filepath="$PROJECT_DIR$/exercicio05/exercicio05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio06/exercicio06.iml" filepath="$PROJECT_DIR$/exercicio06/exercicio06.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/list_java.iml" filepath="$PROJECT_DIR$/.idea/list_java.iml" />
     </modules>
   </component>
