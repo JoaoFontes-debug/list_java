@@ -22,6 +22,7 @@ public class Main {
            System.out.println("Digite um numero");
            String entrada02 = scanner.nextLine();
 
+           System.out.println("result" + validarNumero(entrada01));
 
            if (validarNumero(entrada01) && validarNumero(entrada02)){
 
